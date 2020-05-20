@@ -8,7 +8,7 @@ public class FirstPage {
 
         @RequestMapping("/")
         public String helloWorld(){
-            return "Salam duinoooo!!";
+            return "First!!";
         }
 
 }
